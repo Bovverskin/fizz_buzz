@@ -1,4 +1,4 @@
-equire './lib/fizz_buzz'
+require './lib/fizz_buzz'
 
 describe 'fizz_buzz' do
     it "returns 1 if the number is 1" do
